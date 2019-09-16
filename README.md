@@ -3,7 +3,7 @@ A repository for the cleaned footfall index data
 
 
 | Entrace | Latitude | Longitude|
-| .. | .. | .. |
+|---|---|---|
 | O'Connell Street at Clerys | 53.349262 | -6.25982 |
 | South King St | 53.340282 | -6.261983 |
 | South Great Georges | 53.343154 | -6.26441|
