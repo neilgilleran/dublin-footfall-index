@@ -7,6 +7,8 @@ The data is stored in a grid with no dates for the recorded number of pedestrian
 The notebook XXX details what had to be done.
 
 I also created a resource file with estimated latitude and longitudes for the entrances. This is saved in the folder resources/
+
+
 | Entrace | Latitude | Longitude|
 |---|---|---|
 | O'Connell Street at Clerys | 53.349262 | -6.25982 |
